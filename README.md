@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # :wave: Introdution :octocat:
 Hello, how are you? :metal:
 
-Few things about me, my name is Flávio Yoshizo Miyaji, I have bachelor degree in Information systems by the University [UNIARA](https://www.uniara.com.br/). I'm recently working from home for the company [SHX Informativa ITDA](http://www.shx.com.br/site/) as a software engineer and currently living in Brazil.
+Few things about me, my name is Flávio Yoshizo Miyaji, I have bachelor degree in Information systems by the University [UNIARA](https://www.uniara.com.br/). I'm recently working from home for the company [SHX Informativa LTDA](http://www.shx.com.br/site/) as a software engineer and currently living in Brazil.
 
 ## :briefcase: I’m currently working on Venda Assistida
 I've been working on this project for about two years, as a Full-stack developer where we use a Java REST API with Spring-boot for backend, PostgresSQL for database, and ReactNative for front-end mobile.
