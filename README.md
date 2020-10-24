@@ -20,10 +20,10 @@ Hello, how are you? :metal:
 
 Few things about me, my name is Flávio Yoshizo Miyaji, I have bachelor degree in Information systems by the University [UNIARA](https://www.uniara.com.br/). I'm recently working from home for the company [SHX Informativa ITDA](http://www.shx.com.br/site/) as a software engineer and currently living in Brazil.
 
-## 🔭 I’m currently working on Venda Assistida :mortar_board::briefcase:
+## :briefcase: I’m currently working on Venda Assistida
 I've been working on this project for about two years, as a Full-stack developer where we use a Java REST API with Spring-boot for backend, PostgresSQL for database, and ReactNative for front-end mobile.
 
-## 🌱 I’m currently learning NodeJS, ReactJS, ReactNative and UI/UX Design
+## :mortar_board: I’m currently learning NodeJS, ReactJS, ReactNative and UI/UX Design
 I've been studying this stack since November 2019, since then, I created some projects, most of them it's public here in those repositories and a couple of them it's private for commercial purposes.
 
 |Tecnologies|Level of experience|
@@ -39,7 +39,7 @@ I've been studying this stack since November 2019, since then, I created some pr
 |PostgresSQL|:black_circle::black_circle::black_circle::black_circle::white_circle:|
 |SQLite|:black_circle::black_circle::black_circle::black_circle::white_circle:|
 
-# 📫 How to reach me:
+# :mailbox_closed: How to reach me:
 I'll be happy to help in everything I can
 - E-mail: yoshizo.miyaji@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/flavio-yoshizo-miyaji-b2500a199/)
