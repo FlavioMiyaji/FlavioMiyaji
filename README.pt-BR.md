@@ -20,3 +20,10 @@ Trabalho como Full-stack no back-end utilizando uma REST API em JAVA com SPRING-
 |CSS|:black_circle::black_circle::black_circle::black_circle::black_circle:|
 |PostgresSQL|:black_circle::black_circle::black_circle::black_circle::white_circle:|
 |SQLite|:black_circle::black_circle::black_circle::black_circle::white_circle:|
+
+# :mailbox_closed: Entre em contato:
+Ficarei feliz em ajudar no que puder.
+- E-mail: yoshizo.miyaji@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/flavio-yoshizo-miyaji-b2500a199/)
+- [Instagram](https://www.instagram.com/flaviomiyaji/)
+- [Facebook](https://www.facebook.com/flavio.miyaji.3)
