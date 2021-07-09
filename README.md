@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 -->
 
 # :wave: Introdution :octocat:
-Hello, how are you? :metal:
 
 Few things about me, my name is Flávio Yoshizo Miyaji, I have bachelor degree in Information systems by the University [UNIARA](https://www.uniara.com.br/). I'm recently working from home for the company [SHX Informatica LTDA](http://www.shx.com.br/site/) as a software engineer and currently living in Brazil.
 
